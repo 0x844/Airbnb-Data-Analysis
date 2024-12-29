@@ -6,6 +6,8 @@ This project is an analysis of Airbnb listings data in Washington D.C. using SQL
 
 The project uses **SQL** for data cleaning, transformation, and aggregation. **Power BI** is used to visualize the data and provide insights. The final output includes various interactive dashboards and reports showcasing key findings from the dataset.
 
+![image](https://github.com/user-attachments/assets/ab9bdd28-002a-4d1a-a67f-c58c590dd405)
+
 ### Objectives 🎯
 
 - Analyze Airbnb listings data to identify trends, outliers, and patterns.
