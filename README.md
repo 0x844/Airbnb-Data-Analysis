@@ -1,6 +1,6 @@
 # Airbnb Data Analysis 🏡📊
 
-This project is an analysis of Airbnb listings data using SQL and Power BI. The dataset was acquired from [Inside Airbnb](http://insideairbnb.com), which provides detailed information on Airbnb listings across different cities. The analysis includes exploring listings by host type, pricing trends, availability, and reviews.
+This project is an analysis of Airbnb listings data in Washington D.C. using SQL and Power BI. The dataset was acquired from [Inside Airbnb](http://insideairbnb.com), which provides detailed information on Airbnb listings across different cities. The analysis includes exploring listings by host type, pricing trends, availability, and reviews.
 
 ## Overview 💡
 
