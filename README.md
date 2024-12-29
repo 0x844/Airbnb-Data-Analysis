@@ -12,6 +12,11 @@ The project uses **SQL** for data cleaning, transformation, and aggregation. **P
 - Aggregate the data by different metrics, such as host type, pricing, reviews, and availability.
 - Create interactive Power BI dashboards to visualize the data.
 
+### Example SQL operations include:
+- Data merging with UNION
+- Counting listings by host_name and calculating host_type.
+- Removing duplicates and null values.
+
 ### Requirements 📋
 
 - **SQL Server** (or any database tool that supports SQL)
